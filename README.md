@@ -1,4 +1,4 @@
-# Broken Rock Paper Scissors
+# Rock Paper Scissors
 Welcome to the Rock Paper Scissors game developed in PHP! This simple yet entertaining game allows users to play the classic Rock Paper Scissors against the computer. Below, you'll find instructions on how to set up and run the game.
 
 ## How to Set Up and Run the Game: ##
